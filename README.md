@@ -40,12 +40,12 @@ Planeringen bör innehålla:
 # Hållpunkter:
 * **Måndag**: Uppstartsmöte 09:15. Ni skissar upp wireframe/moodboard.
 * **Tisdag**: Eget arbete. Presentera era projekttankar för oss i grupp.
-* **Onsdag**: Uppstartsmöte 09:00. Eget arbete.
+* **Onsdag**: Uppstartsmöte 09:15. Eget arbete.
 * **Torsdag**: Eget arbete.
 * **Fredag**: Uppstartsmöte 09:15. Eget arbete.
 * **Helg**: 🌈
 * **Måndag**: Uppstartsmöte 09:15.
 * **Tisdag**: Eget arbete. 
-* **Onsdag**: Uppstartsmöte 09:00. Eget arbete.
+* **Onsdag**: Uppstartsmöte 09:15. Eget arbete.
 * **Torsdag**: Eget arbete.
 * **Fredag**: Redovisningar i tvärgrupper.
