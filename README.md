@@ -37,3 +37,9 @@ Planeringen bör innehålla:
 * Visa/berätta hur ni strukturerade er readme-fil på GitHub för att bäst kommunicera ert projekt.
 * Berätta om något som ni tyckte var extra lärorikt/spännande/roligt med utvecklingen av er app.
 
+# Hållpunkter under första veckan:
+* **Måndag**: Uppstartsmöte 09:15. Ni skissar upp wireframe/moodboard.
+* **Tisdag**: Eget arbete. Ni får grupper. Presentera era projekttankar för oss i grupp.
+* **Onsdag**: Uppstartsmöte 09:00. Eget arbete.
+* **Torsdag**: Eget arbete.
+* **Fredag**: Uppstartsmöte 09:15. Eget arbete.
