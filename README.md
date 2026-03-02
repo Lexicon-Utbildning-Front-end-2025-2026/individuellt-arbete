@@ -43,6 +43,7 @@ Planeringen bör innehålla:
 * **Onsdag**: Uppstartsmöte 09:00. Eget arbete.
 * **Torsdag**: Eget arbete.
 * **Fredag**: Uppstartsmöte 09:15. Eget arbete.
+* **Helg**: 🌈
 * **Måndag**: Uppstartsmöte 09:15.
 * **Tisdag**: Eget arbete. 
 * **Onsdag**: Uppstartsmöte 09:00. Eget arbete.
