@@ -48,4 +48,5 @@ Planeringen bör innehålla:
 * **Tisdag**: Eget arbete. 
 * **Onsdag**: Uppstartsmöte 09:15. Eget arbete.
 * **Torsdag**: Eget arbete.
-* **Fredag**: Redovisningar i tvärgrupper.
+* **Fredag**: Readme-dags. Eget arbete.
+* **Måndag**: Redovisningar i tvärgrupper.
