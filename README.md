@@ -45,7 +45,7 @@ Planeringen bör innehålla:
 * **Fredag**: Uppstartsmöte 09:15. Eget arbete.
 * **Helg**: 🌈
 * **Måndag**: Uppstartsmöte 09:15.
-* **Tisdag**: Eget arbete. 
+* **Tisdag**: Eget arbete. Incheckning i grupperna där lärarna är med.
 * **Onsdag**: Uppstartsmöte 09:15. Eget arbete.
 * **Torsdag**: Eget arbete.
 * **Fredag**: Readme-dags. Eget arbete.
