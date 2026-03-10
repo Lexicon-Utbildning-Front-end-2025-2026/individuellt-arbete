@@ -33,7 +33,8 @@ Planeringen bör innehålla:
 * Om ni önskar något helt annat än vad som vi jobbat med, kolla gärna lite med oss innan så vi kan kolla om det är rimligt/lämpligt. 
 
 # Redovisning
-* En demo på er app där ni delar skärm och visar. Inklusive felhantering eller annats som kan vara intressant. Ingen kod utan bara funktionalitet i webbläsaren.
+Ni kommer ha ca 10 minuter på er att:
+* Ge en demo på er app där ni delar skärm och visar. Inklusive felhantering, sökningar eller annat som kan vara intressant att visa upp. Ingen kod utan bara funktionalitet i webbläsaren. Däremot får ni gärna berätta kortfattat hur ni löst det tekniskt utan att gå in på för många detaljer.
 * Visa/berätta hur ni strukturerade er readme-fil på GitHub för att bäst kommunicera ert projekt.
 * Berätta om något som ni tyckte var extra lärorikt/spännande/roligt med utvecklingen av er app.
 
@@ -49,4 +50,4 @@ Planeringen bör innehålla:
 * **Onsdag**: Uppstartsmöte 09:15. Eget arbete.
 * **Torsdag**: Eget arbete.
 * **Fredag**: Readme-dags. Eget arbete.
-* **Måndag**: Redovisningar i tvärgrupper.
+* **Måndag**: Redovisningar i tvärgrupper. 10.00-14.30 (exklusive lunch och raster).
