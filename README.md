@@ -50,4 +50,4 @@ Ni kommer ha ca 10 minuter på er att:
 * **Onsdag**: Uppstartsmöte 09:15. Eget arbete.
 * **Torsdag**: Eget arbete.
 * **Fredag**: Readme-dags. Eget arbete.
-* **Måndag**: Redovisningar i tvärgrupper. 10.00-14.30 (exklusive lunch och raster).
+* **Måndag**: Redovisningar i halvklass. 10.00-14.30 (exklusive lunch och raster).
