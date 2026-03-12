@@ -30,9 +30,25 @@ Planeringen bör innehålla:
 * Ni får gärna fortsätta att brodera ut webshop-admin om ni vill det. Vi kommer troligen jobba vidare med butikens framsida senare i grupp, så det kan ni gärna avvakta med.
 * Jobba vidare med något tidigare projekt från kursen ni vill göra klart, eller något ni vill göra om. Typ pokemons, futurama, filmer eller vad ni nu gjort
 * Någon längre och större projekt-tutorial från t ex youtube eller dylikt
-* Om ni önskar något helt annat än vad som vi jobbat med, kolla gärna lite med oss innan så vi kan kolla om det är rimligt/lämpligt. 
+* Om ni önskar något helt annat än vad som vi jobbat med, kolla gärna lite med oss innan så vi kan kolla om det är rimligt/lämpligt.
+
+# Inför redovisningar
+## Hur ska jag säga?
+Nedan är några olika clip med tips inför presentationer och demonstrationer. Kolla igenom dem, även om det bara är lite snabbt. Inte allt gäller i detta sammanhang, men de innehåller ändå olika bra saker som kan vara bra att tänka på. Både i detta sammanhang men även inför code review eller intervjuer och presentationer. Fundera på vad du vill ta med dig till denna presentation och hur du vill lägga upp den tid du har (10 min).
+* https://www.youtube.com/watch?v=MyLdT-joADc
+* https://www.youtube.com/watch?v=LrjlW00kkws
+* https://www.youtube.com/watch?v=atLvsjIIsOI
+* https://www.youtube.com/watch?v=_SZRK9LL-oE
+  
+## Projektets framsida - readme
+
+
+
+
 
 # Redovisning
+Innan ni drar igång själva redovisningen - se till att skicka ut länken till ert projekt i chatten (och se till att alla kommer åt) och om ni vill får ni gärna ha en live-share-länk också. 
+
 Ni kommer ha ca 10 minuter på er att:
 * Ge en demo på er app där ni delar skärm och visar. Inklusive felhantering, sökningar eller annat som kan vara intressant att visa upp. Ingen kod utan bara funktionalitet i webbläsaren. Däremot får ni gärna berätta kortfattat hur ni löst det tekniskt utan att gå in på för många detaljer.
 * Visa/berätta hur ni strukturerade er readme-fil på GitHub för att bäst kommunicera ert projekt.
