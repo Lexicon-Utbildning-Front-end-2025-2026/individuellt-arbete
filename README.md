@@ -34,7 +34,7 @@ Planeringen bör innehålla:
 
 # Inför redovisningar
 ## Hur ska jag säga?
-Nedan är några olika clip med tips inför presentationer och demonstrationer. Kolla igenom dem, även om det bara är lite snabbt. Inte allt gäller i detta sammanhang, men de innehåller ändå olika bra saker som kan vara bra att tänka på. Både i detta sammanhang men även inför code review eller intervjuer och presentationer. Fundera på vad du vill ta med dig till denna presentation och hur du vill lägga upp den tid du har (10 min).
+Nedan är några olika clip med tips inför presentationer och demonstrationer. Kolla igenom dem, även om det bara är lite snabbt. Inte allt gäller i detta sammanhang, men de innehåller ändå olika bra saker som kan vara bra att tänka på. Både i denna redovisning men även inför code review eller intervjuer och presentationer. Fundera på vad du vill ta med dig till denna presentation och hur du vill lägga upp den tid du har (10 min).
 * https://www.youtube.com/watch?v=MyLdT-joADc
 * https://www.youtube.com/watch?v=LrjlW00kkws
 * https://www.youtube.com/watch?v=atLvsjIIsOI
