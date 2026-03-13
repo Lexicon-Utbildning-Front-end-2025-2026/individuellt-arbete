@@ -42,9 +42,10 @@ Nedan är några olika clip med tips inför presentationer och demonstrationer. 
   
 ## Projektets framsida - readme
 
+https://github.com/Lexicon-Utbildning-Front-end-2025-2026/README-ovning/blob/main/readme_cheatsheet.pdf
+https://github.com/banesullivan/README
 
-
-
+Exempel: https://github.com/Lexicon-frontend-2025/my_readme, https://github.com/othneildrew/Best-README-Template?tab=readme-ov-file
 
 # Redovisning
 Innan ni drar igång själva redovisningen - se till att skicka ut länken till ert projekt i chatten (och se till att alla kommer åt) och om ni vill får ni gärna ha en live-share-länk också. 
